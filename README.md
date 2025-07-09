@@ -46,7 +46,8 @@ mkdir -p ~/microros_ws/src
 cd ~/microros_ws
 
 # Clone the micro_ros_setup repository
-git clone -b humble https://github.com/micro-ROS/micro_ros_setup.git src/micro_ros_setup
+git clone https://github.com/Pakgard007/micro-ROS-and-install_rosHumble.git src/micro_ros_setup
+
 
 
 # Install dependencies

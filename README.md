@@ -1,3 +1,8 @@
+![micro-ROS Logo](https://raw.githubusercontent.com/Pakgard007/micro-ROS-and-install_rosHumble/main/.images/microros_logo.png)
+
+# micro-ROS Build System + ROS 2 Humble Installation Guide
+
+This repository contains step-by-step instructions for installing micro-ROS on Ubuntu 22.04 with ROS 2 Humble, including both toolchain setup and firmware workspace.
 
 ---
 
